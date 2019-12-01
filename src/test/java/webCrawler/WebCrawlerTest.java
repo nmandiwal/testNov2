@@ -1,7 +1,6 @@
 package webCrawler;
 
 import junit.framework.TestCase;
-import webCrawler.Crawler;
 
 public class WebCrawlerTest extends TestCase {
 
